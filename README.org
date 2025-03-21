@@ -1,0 +1,2 @@
+#+AUTHOR: Isaac H. Lopez Diaz <isaac.lopez@upr.edu>
+#+TITLE: The Reasoned Schemer
